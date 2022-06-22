@@ -1,0 +1,15 @@
+body{
+    font-family: Geneva, Tahoma, sans-serif;
+
+}
+ul li .active{
+    font-size       : 1.01rem;
+    font-family     : Geneva, Tahoma, sans-serif;
+    margin-right    : 3px;
+    /* border-bottom   : 1px solid  black; */
+    background      : lightgray;
+}
+nav ul li a:hover{
+    background-color: lightgray;    
+    color: white;
+}

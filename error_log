@@ -1,0 +1,160 @@
+[29-May-2020 05:33:42 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:42 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:44 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:33:44 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:33:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:33:46 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:33:46 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:33:46 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:33:46 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 05:33:46 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 05:33:48 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:48 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:48 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/lapor_mati.php on line 3
+[29-May-2020 05:33:49 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:33:49 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:33:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:34:05 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:05 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:05 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:05 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 05:34:05 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 05:34:08 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:08 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:08 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:34:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home/kuburiko/public_html/penduduk/selesai_lapor.php:25
+Stack trace:
+#0 /home/kuburiko/public_html/penduduk/content.php(16): include()
+#1 /home/kuburiko/public_html/index.php(48): include('/home/kuburiko/...')
+#2 {main}
+  thrown in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 25
+[29-May-2020 05:35:45 Asia/Jakarta] PHP Warning:  include(/admin/function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:45 Asia/Jakarta] PHP Warning:  include(/admin/function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '/admin/function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:45 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 05:35:45 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 05:35:48 Asia/Jakarta] PHP Warning:  include(/admin/function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:48 Asia/Jakarta] PHP Warning:  include(/admin/function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '/admin/function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 3
+[29-May-2020 05:35:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function query() in /home/kuburiko/public_html/penduduk/selesai_lapor.php:20
+Stack trace:
+#0 /home/kuburiko/public_html/penduduk/content.php(16): include()
+#1 /home/kuburiko/public_html/index.php(48): include('/home/kuburiko/...')
+#2 {main}
+  thrown in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 20
+[29-May-2020 05:36:11 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:36:11 Asia/Jakarta] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:36:11 Asia/Jakarta] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kuburiko/public_html/penduduk/lapor_lahir_ubah.php on line 3
+[29-May-2020 05:36:55 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 05:36:55 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 05:36:55 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 05:36:55 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed03e2471e4ajpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpphh6Qy' to 'assets/berkas/5ed03e2471e4ajpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed03e2471f45jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAjnuH0' to 'assets/berkas/5ed03e2471f45jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed03e2471f75jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpr3PXxs' to 'assets/berkas/5ed03e2471f75jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed03e2471f9cjpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprJ9toU' to 'assets/berkas/5ed03e2471f9cjpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed03e2471fc3jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 05:41:40 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpR7g3em' to 'assets/berkas/5ed03e2471fc3jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:00:47 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 06:00:47 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed043bcdaf35jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj30EuS' to 'assets/berkas/5ed043bcdaf35jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed043bcdb038jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvWXSce' to 'assets/berkas/5ed043bcdb038jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed043bcdb0abjpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWPEjVz' to 'assets/berkas/5ed043bcdb0abjpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed043bcdb115jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnGHYDV' to 'assets/berkas/5ed043bcdb115jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed043bcdb186jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:05:32 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFCiOmh' to 'assets/berkas/5ed043bcdb186jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed045dfea623jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzMv98X' to 'assets/berkas/5ed045dfea623jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed045dfea827jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1O0Thl' to 'assets/berkas/5ed045dfea827jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed045dfea85bjpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF93FqI' to 'assets/berkas/5ed045dfea85bjpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed045dfea882jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmTDwz5' to 'assets/berkas/5ed045dfea882jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed045dfea8a5jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 06:14:39 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaMMqIs' to 'assets/berkas/5ed045dfea8a5jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed10651c47c3jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8Ib8gx' to 'assets/berkas/5ed10651c47c3jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed10651c49e2jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzb9Guh' to 'assets/berkas/5ed10651c49e2jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed10651c4a19jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPJR1H1' to 'assets/berkas/5ed10651c4a19jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed10651c4a41jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0y6oVL' to 'assets/berkas/5ed10651c4a41jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed10651c4b02jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 19:55:45 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRvlQ8v' to 'assets/berkas/5ed10651c4b02jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 20:37:52 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 20:37:52 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 21:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[29-May-2020 21:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed11b9b826d4jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiCDkmO' to 'assets/berkas/5ed11b9b826d4jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed11b9b827f6jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTJC1HR' to 'assets/berkas/5ed11b9b827f6jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed11b9b82828jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaEyx3U' to 'assets/berkas/5ed11b9b82828jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed11b9b82851jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfQytpY' to 'assets/berkas/5ed11b9b82851jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed11b9b82879jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:26:35 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzhUeL1' to 'assets/berkas/5ed11b9b82879jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed11cdec9d2cjpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSdgv3b' to '/assets/berkas/5ed11cdec9d2cjpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed11cdec9e01jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxL27Er' to '/assets/berkas/5ed11cdec9e01jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed11cdec9e2bjpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo0V6gH' to '/assets/berkas/5ed11cdec9e2bjpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed11cdec9e56jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRWVUSW' to '/assets/berkas/5ed11cdec9e56jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed11cdec9e79jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:31:58 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgKeRuc' to '/assets/berkas/5ed11cdec9e79jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed120a5f1a25jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUxovVH' to '/assets/berkas/5ed120a5f1a25jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed120a5f1af4jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php06BoGq' to '/assets/berkas/5ed120a5f1af4jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed120a5f1b28jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpa7Kmr9' to '/assets/berkas/5ed120a5f1b28jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed120a5f1b4ejpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzOPJcS' to '/assets/berkas/5ed120a5f1b4ejpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed120a5f1b70jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:48:05 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ1oaYA' to '/assets/berkas/5ed120a5f1b70jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed121cb44996jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHWyW8D' to '/assets/berkas/5ed121cb44996jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed121cb44a73jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSthgpf' to '/assets/berkas/5ed121cb44a73jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed121cb44aa9jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZMK0FQ' to '/assets/berkas/5ed121cb44aa9jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed121cb44ad6jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5nezWr' to '/assets/berkas/5ed121cb44ad6jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed121cb44af7jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 21:52:59 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMtcxd3' to '/assets/berkas/5ed121cb44af7jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed125b5df524jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDXOTp7' to '/assets/berkas/5ed125b5df524jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed125b5df746jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvX1wpK' to '/assets/berkas/5ed125b5df746jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed125b5df778jpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAmA2on' to '/assets/berkas/5ed125b5df778jpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed125b5df79cjpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZAN0o0' to '/assets/berkas/5ed125b5df79cjpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(/assets/berkas/5ed125b5df7bdjpg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:09:41 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1cDSoD' to '/assets/berkas/5ed125b5df7bdjpg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed1274dbabe8jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsznqy5' to 'assets/berkas/5ed1274dbabe8jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed1274dbacdejpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZJTUVC' to 'assets/berkas/5ed1274dbacdejpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed1274dbad30jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php853Lja' to 'assets/berkas/5ed1274dbad30jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed1274dbad66jpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppS6EHH' to 'assets/berkas/5ed1274dbad66jpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(assets/berkas/5ed1274dbad8djpeg): failed to open stream: No such file or directory in /home/kuburiko/public_html/admin/function.php on line 325
+[29-May-2020 22:16:29 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5gWz5e' to 'assets/berkas/5ed1274dbad8djpeg' in /home/kuburiko/public_html/admin/function.php on line 325
+[31-May-2020 21:41:33 Asia/Jakarta] PHP Notice:  Undefined variable: noreg in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 87
+[31-May-2020 21:41:33 Asia/Jakarta] PHP Notice:  Undefined variable: status in /home/kuburiko/public_html/penduduk/selesai_lapor.php on line 98

@@ -1,0 +1,75 @@
+body{
+    background: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link:hover{
+    background-color: grey;
+}
+.display-4{
+    font-weight:bold;
+}
+
+.header{
+    /* position: absolute; */
+
+    background-color: salmon;
+}
+
+#listUser a:hover{
+    background-color: lightgray;
+}
+#lstUser a .active{
+    background-color: lightgray;
+}
+
+.card-body .card-title{
+    font-size: 10px;
+    font-weight: bold;
+    overflow: auto;
+}
+
+.card-body-icon i{
+    position: absolute;
+     z-index : 0;
+    top: 30%;
+    right: 4px;
+    opacity: 0.4;
+    font-size: 60px;
+}
+
+.row .col-md-2 ul li a {
+    color: lightblue;
+    font-size: 11px;
+}
+
+
+#sidebar{
+    height: 100%;
+}
+.toggle-btn{
+    padding: 3px 6px;
+    cursor: pointer;
+}
+.toggle-btn:hover{
+    background-color: #007BFF;
+}
+.toggle-btn span{
+    display: block;
+    width: 30px;
+    height: 5px;
+    background : black;
+    margin: 4px 0px;
+}
+
+
+table{
+    font-size: 11px;
+}
+
+.row .lahir form{
+    font-size: 10px;
+}
+
+.identitas{
+    border : 5px solid black;
+}

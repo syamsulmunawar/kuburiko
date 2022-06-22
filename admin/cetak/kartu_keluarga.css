@@ -1,0 +1,93 @@
+body{
+    background-image: url('bg_kartu_keluarga.png');
+    background-image-resize: 6;
+    background-repeat: no-repeat;
+}
+ 
+
+/* div{
+    border: 1px solid black;
+} */
+table{
+    width: 100%;
+    font-size: 8pt;
+}
+th{
+    font-weight: normal;
+}
+
+
+.no_kk{
+    position: absolute;
+    width   : 28%;
+    top     : 11.4%;
+    left    : 40.6%;
+    font-size: 20pt;
+}
+.ket{
+    position: absolute;
+    width   : 80%;
+    top     : 15.5%;
+    left    : 12.6%;
+}
+.tb_1{
+    position: absolute;
+    width   : 91%;
+    top     : 23.4%;
+    left    : 4%;
+}
+
+.lembar{
+    position: absolute;
+    width   : 23%;
+    top     : 80%;
+    left    : 5.5%;
+}
+
+.kepala_keluarga{
+    position: absolute;
+    width   : 18%;
+    top     : 83.8%;
+    left    : 41%;
+    font-size: 8pt;
+    text-align: center;
+}
+.kepala_dinas{
+    position: absolute;
+    width   : 18%;
+    top     : 83.8%;
+    left    : 75.5%;
+    font-size: 8pt;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

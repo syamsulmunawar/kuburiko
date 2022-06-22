@@ -1,0 +1,141 @@
+body{
+    background-image: url('bg_akta_lahir1.png');
+    background-image-resize: 4;
+}
+ 
+
+
+
+.nik{
+    position: absolute;
+    width   : 23%;
+    top     : 9.2%;
+    left    : 34%;
+}
+.kode{
+    position: absolute;
+    width   : 21%;
+    top     : 8.5%;
+    left    : 69.5%;
+}
+.negara{
+    position: absolute;
+    width   : 20%;
+    top     : 30.8%;
+    left    : 50.5%;
+}
+.no_akta{
+    position: absolute;
+    width   : 30%;
+    top     : 44.7%;
+    left    : 45%;
+}   
+.no_stbld{
+    position: absolute;
+    width   : 35%;
+    top     : 47.3%;
+    left    : 36%;
+}
+.tempat_lahir{
+    position: absolute;
+    width   : 30%;
+    top     : 50.1%;
+    left    : 20.5%;
+}
+.tanggal_lahir{
+    position: absolute;
+    width   : 27.5%;
+    top     : 50.1%;
+    left    : 63%;
+}
+
+.bulan{
+    position: absolute;
+    width   : 12%;
+    top     : 53%;
+    left    : 11.1%;   
+}
+.tahun{
+    position: absolute;
+    width   : 46.8%;
+    top     : 53%;
+    left    : 30%;   
+}
+
+.nama{
+    position: absolute;
+    width   : 80%;
+    top     : 55.6%;
+    left    : 11.5%;
+    font-size: 14pt;
+    text-align: center;
+}
+.anak_ke{
+    position: absolute;
+    width   : 30%;
+    top     : 58.8%;
+    left    : 20.5%;
+}
+    
+
+.jenis_kelamin{
+    position: absolute;
+    width   : 39%;
+    top     : 61.5%;
+    left    : 12.3%;
+}
+.nama_ayah_ibu{
+    position: absolute;
+    width   : 38%;
+    top     : 61.5%;
+    left    : 52.3%;
+}
+.dikeluarkan_di{
+    position: absolute;
+    width   : 21.3%;
+    top     : 70.1%;
+    left    : 70%;
+}
+.tanggal_bulan_terbit{
+    position: absolute;
+    width   : 30%;
+    top     : 72.8%;
+    left    : 60.8%;
+}
+.tahun_terbit{
+    position: absolute;
+    width   : 37.6%;
+    top     : 75.5%;
+    left    : 53.7%;
+}
+.capil{
+    position: absolute;
+    width   : 35.5%;
+    top     : 78%;
+    left    : 55%;
+}
+.kota_capil{
+    position: absolute;
+    width   : 35.5%;
+    top     : 80.8%;
+    left    : 55%;
+}
+.nama_petugas{
+    position: absolute;
+    width   : 35.7%;
+    top     : 88.5%;
+    left    : 54.5%;
+}
+.pangkat{
+    position: absolute;
+    width   : 35.7%;
+    top     : 90.2%;
+    left    : 54.5%;
+}
+.nip{
+    position: absolute;
+    width   : 35.7%;
+    top     : 92%;
+    left    : 54.5%;
+}
+
